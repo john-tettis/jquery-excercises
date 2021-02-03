@@ -1,0 +1,30 @@
+#container {
+  display: block;
+  width: 30rem;
+  height: 40rem;
+  background-color: antiquewhite;
+  border: 3px solid #8d1b1b;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#container input {
+  width: 95%;
+}
+
+#container table {
+  border-collapse: collapse;
+  border: 3px solid #8d1b1b;
+  margin: 0;
+  padding: 0;
+}
+
+#container button {
+  width: 95%;
+  margin-left: 5px;
+}
+
+#container tr {
+  border: 3px solid #8d1b1b;
+}
+/*# sourceMappingURL=app.css.map */
